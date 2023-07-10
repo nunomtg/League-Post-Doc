@@ -22,11 +22,11 @@ To get started with the Champion Pick & Ban Assistant, follow these steps:
 
 ## Contributing
 
-We welcome contributions from the community to enhance and improve the Champion Pick & Ban Assistant. To contribute, please follow the guidelines outlined in [CONTRIBUTING.md](https://github.com/your-username/your-repo-name/blob/main/CONTRIBUTING.md).
+We welcome contributions from the community to enhance and improve the Champion Pick & Ban Assistant. To contribute, please follow the guidelines outlined in ** TODO **.
 
 ## License
 
-This project is licensed under the [MIT License](https://opensource.org/licenses/MIT) - see the [LICENSE](https://github.com/your-username/your-repo-name/blob/main/LICENSE) file for details.
+This project is licensed under the [MIT License](https://opensource.org/licenses/MIT).
 
 ## Issues
 
@@ -38,10 +38,10 @@ We would like to express our gratitude to the following resources and projects f
 
 - [Riot Games API](https://developer.riotgames.com/) - Official API documentation for League of Legends.
 - [League Phd](https://leaguephd.com/en/stats/) - Statistical analysis of counter and synergy relationships between League of Legends champions.
-- 
+  
 ## Contact
 
-If you have any questions, suggestions, or feedback, feel free to reach out to our team at [email@example.com](mailto:email@example.com). We would love to hear from you!
+If you have any questions, suggestions, or feedback, feel free to reach out to our team at ** TODO **. We would love to hear from you!
 
 Happy gaming and may your picks and bans lead you to victory!
 
