@@ -1,8 +1,8 @@
 # League of Legends Champion Pick & Ban Assistant
 
-[![GitHub license](https://img.shields.io/github/license/your-username/your-repo-name.svg)](https://github.com/your-username/your-repo-name/blob/main/LICENSE)
-[![GitHub issues](https://img.shields.io/github/issues/your-username/your-repo-name.svg)](https://github.com/your-username/your-repo-name/issues)
-[![GitHub stars](https://img.shields.io/github/stars/your-username/your-repo-name.svg)](https://github.com/your-username/your-repo-name/stargazers)
+[![GitHub issues](https://img.shields.io/github/issues/ist196557/League-Post-Doc.svg)](https://github.com/ist196557/League-Post-Doc/issues)
+[![GitHub stars](https://img.shields.io/github/stars/ist196557/League-Post-Doc.svg)](https://github.com/ist196557/League-Post-Doc/stargazers)
+
 
 Welcome to the League of Legends Champion Pick & Ban Assistant GitHub repository! This project is a software application designed to assist players in making informed decisions when picking and banning champions in League of Legends. By analyzing extensive statistics and data, our tool provides valuable insights to help you optimize your team composition and gain a competitive edge in the game.
 
