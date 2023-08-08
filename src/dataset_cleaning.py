@@ -413,13 +413,13 @@ def generate_dataset() -> Dict[str, int]:
     # Clean and shuffle the dataset
     df, CHAMP_TO_IDX = get_dataset_cleaned()
     # KR Challengers
-    df2 = get_challenger("kr")
-    df3 = get_challenger("eu")
+    # df2 = get_challenger("kr")
+    # df3 = get_challenger("eu")
     df4 = get_challenger("europe")
 
     # Add the KR Challengers to the dataset
-    df = df.vstack(df2)
-    df = df.vstack(df3)
+    # df = df.vstack(df2)
+    # df = df.vstack(df3)
     df = df.vstack(df4)
 
     df = df.sample(fraction=1, shuffle=True)
